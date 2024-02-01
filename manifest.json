@@ -1,0 +1,35 @@
+
+{
+	"name": "Onlyfans bulk downloader",
+	"icons": {
+		"128": "icon.png"
+	},
+	"description": "Download multimedia content from onlyfans subscription. Supports downloading from post, user, messages and subscriptions",
+	"manifest_version": 3,
+	"version": "1.1",
+	"permissions": ["activeTab", "downloads", "cookies"],
+	"host_permissions": [
+		"*://*.onlyfans.com/", 
+		"*://onlyfansdownloader.co/", 
+		"http://localhost/*"
+	],
+	"content_scripts": [{
+		"matches": ["https://onlyfans.com/*"],
+		"js": ["/js/functions.js", "/js/contentScript.js"]
+	}],
+	"web_accessible_resources": [{
+		"resources": [
+			"/js/functions.js"
+		],
+		"matches": ["<all_urls>"]
+	}],
+	"background": {
+		"service_worker": "/js/background.js"
+	},
+	"externally_connectable": {
+		"matches": [
+			"*://*.onlyfansdownloader.co/*",
+			"http://localhost/*"
+		]
+	}
+}
