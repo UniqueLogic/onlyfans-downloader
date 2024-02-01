@@ -1,6 +1,6 @@
 # Free Onlyfans Downloader
 
-[Onlyfans downloader](https://onlyfansdownloader.co/) helps you to download videos and photos from your [onlyfans](https://onlyfans.com) account for free. You can also bulk download media from onlyfans posts, profiles, and chats with single click.
+[Onlyfans downloader](https://onlyfansdownloader.co/) lets you download videos and photos from your [onlyfans](https://onlyfans.com) account. You can also bulk download media from onlyfans posts, profiles, and chats with single click.
 
 ## Features
 ### Download media from onlyfans posts
