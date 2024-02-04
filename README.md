@@ -1,63 +1,57 @@
-# Free Onlyfans Downloader
+# Free Onlyfans Media Downloader
 
-[Onlyfans downloader](https://onlyfansdownloader.co/) lets you download videos and photos from your [onlyfans](https://onlyfans.com) account. You can also bulk download media from onlyfans posts, profiles, and chats with single click.
+Use the [OnlyFans Downloader](https://onlyfansdownloader.co/) to effortlessly save photos and videos from your [OnlyFans](https://onlyfans.com) account. This tool allows hassle-free bulk downloads of media from OnlyFans posts, profiles, and chats with just one click.
 
 ## Features
-### Download media from onlyfans posts
-You can download content from any onlyfans post simply by entering onlyfans post link. Click on 3 dots button on top right of any onlyfans post and click on `Copy link to post` to get the link of the post. 
-### Download media from onlyfans profile
-You can download media posted by any onlyfans profiles that you have subscribed to by providing link to the profile
-### Download media from onlyfans messages or chat
-You can download media sent to your inbox from any onlyfans model by providing link to the chat
+### Save media from OnlyFans Posts
+Simply save content from any OnlyFans post by entering the post link. Click the three dots button on the top right of any post, select 'Copy link to post,' and input the link.
 
-![Onlyfans downloader](https://ik.imagekit.io/webscraper/Screenshot%202024-01-08%20at%202.14.00%20AM.png?updatedAt=1704660267904)
+### Download videos from OnlyFans Profiles
+Retrieve media from any subscribed OnlyFans profile by providing the profile link.
+
+### Download media from OnlyFans Messages or Chat
+Get media sent to your inbox from any OnlyFans model by providing the chat link.
+
+![OnlyFans Downloader](https://ik.imagekit.io/webscraper/Screenshot%202024-01-08%20at%202.14.00%20AM.png?updatedAt=1704660267904)
 
 ## Requirements
 
-To download media from onlyfans using this app you will need to install the chrome extension or provide cookies and proxy
+To use this tool for OnlyFans media downloads, install the Chrome extension or provide cookies and a proxy.
 
-## How to download using the extension
+## How to Download Using the Extension
 
-1. Download the extension by clicking on 'Download extension' button and extract the extension zip file
-2. Click on Chrome menu → Extensions → Manage extensions
-3. Switch ON 'Developer mode' on top right corner
-4. You can either drag and drop the extracted extension folder to the page or Click on 'Load unpacked extension' button and select the extracted folder to install
-5. Make sure that the extension appears on the extensions page, then come back and refresh the onlyfansdownloader.co page
+1. Get the extension by clicking 'Download extension' and extract the zip file.
+2. Go to Chrome menu → Extensions → Manage extensions.
+3. Turn on 'Developer mode' in the top right corner.
+4. Drag and drop the extracted extension folder onto the page or click 'Load unpacked extension' and choose the folder to install.
+5. Confirm the extension on the extensions page, then return and refresh the onlyfansdownloader.co page.
 
-## How to use the chrome extension in incognito mode
+## How to Use the Chrome Extension in Incognito Mode
 
-1. Click on the chrome menu at the top right corner (three dots).
-2. Go to `More tools › Extensions`.
-3. Find the OnlyfansDownloader extension and click on `Details` button.
-4. Enable the option `Allow in incognito`
+1. Click Chrome menu (three dots) in the top right.
+2. Go to `More tools › Extensions`.
+3. Find OnlyfansDownloader extension, click 'Details.'
+4. Enable 'Allow in incognito.'
 
-## How to download using cookies and proxy url (No longer supported)
+## How to Download Using Cookies and Proxy URL (No Longer Supported)
 
-1. Choose download method as 'Proxy and cookies'
-2. Enter proxy url to use when extracting download urls from onlyfans. You must use the same proxy as your browser proxy in order to view and download the content
-3. Follow steps to get cookies below 
-
-## Steps to get cookies (Not needed anymore)
-
-1. Install this popular cookie manager extension: [Cookie Editor](https://chrome.google.com/webstore/detail/hlkenndednhfkekhgcdicdfddnkalmdm)
-2. Sign in to your onlyfans account
-3. Click on extension icon and then click on 'Export' button
-4. The cookies will be copied to your clipboard, paste them in the cookies field
-5. Cookies will be stored locally for your convienice, but make sure to update the cookies if downloader stops working
+1. Select 'Proxy and cookies' as the download method.
+2. Input the proxy URL for extracting download URLs from OnlyFans. Use the same proxy as your browser to view and download content.
+3. Follow steps for cookies (no longer needed).
 
 ## FAQ
 
-### What is OnlyFans Downloader?
-The OnlyFans Downloader is a website designed to allow users to download content from their OnlyFans account. It provides a way to save photos and videos posted by creators on the platform for offline viewing.
+### What is OnlyFans Media Downloader?
+It's a website letting users download content from OnlyFans, enabling offline viewing of creator photos and videos.
 
-### Is the OnlyFans Downloader App official?
-No, the OnlyFans Downloader App is not official and is not endorsed by OnlyFans. It's developed by third-party individuals or groups and is not affiliated with OnlyFans.
+### Is the Media Downloader App Official?
+No, it's not official or endorsed by OnlyFans. Developed by third-party individuals, it has no affiliation with OnlyFans.
 
-### How does the app work?
-The app typically requires users to input the URL of the content they want to download. It then accesses the content on OnlyFans using various methods and allows users to save it to their devices.
+### How Does the App Work?
+Users input the URL of the content they want to download. The app accesses OnlyFans content through various methods, allowing users to save it.
 
-### Can I download media from paid subscription based onlyfans accounts?
-Yes, you can if you are subscribed to the account. You will need to share cookies to authenticate the downloader app on behalf of your onlyfans account
+### Can I Download from Paid OnlyFans Accounts?
+Yes, you can download if subscribed. Share cookies to authenticate the downloader app for your OnlyFans account.
 
-### Can OnlyFans detect I have downloaded a video?
-No as long as you don't share the downloaded content and keep them for your personal use. 
+### Can OnlyFans Detect Video Downloads?
+No, as long as you keep downloaded content for personal use and avoid sharing it.
