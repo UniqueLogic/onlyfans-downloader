@@ -16,15 +16,17 @@ Get media sent to your inbox from any OnlyFans model by providing the chat link.
 
 ## Requirements
 
-To use this tool for OnlyFans media downloads, you need to install the chrome extension in offline mode.
+To use this tool for OnlyFans media downloads, you need to install the chrome extension in offline mode (The extension is waiting to get approved in chrome webstore)
 
-## How to Download Using the Extension
+## How to download Onlyfans videos Using the Extension
 
-1. Get the extension by clicking 'Download extension' and extract the zip file.
-2. Go to Chrome menu → Extensions → Manage extensions.
-3. Turn on 'Developer mode' in the top right corner.
-4. Drag and drop the extracted extension folder onto the page or click 'Load unpacked extension' and choose the folder to install.
-5. Confirm the extension on the extensions page, then return and refresh the onlyfansdownloader.co page.
+1. Get the extension by visiting [onlyfansdownloader.co](https://onlyfansdownloader.co)
+2. Click 'Download extension' button
+3. Extract the downloaded extension zip file.
+4. Go to Chrome menu → Extensions → Manage extensions.
+6. Turn on 'Developer mode' in the top right corner.
+7. Drag and drop the extracted extension folder onto the page or Click 'Load unpacked extension' and choose the folder to install.
+8. Confirm the extension on the extensions page, then go to onlyfansdownloader.co page.
 
 ## How to Use the Chrome Extension in Incognito Mode
 
@@ -32,7 +34,6 @@ To use this tool for OnlyFans media downloads, you need to install the chrome ex
 2. Go to `More tools › Extensions`.
 3. Find OnlyfansDownloader extension, click 'Details.'
 4. Enable 'Allow in incognito.'
-
 
 ## FAQ
 
@@ -50,3 +51,8 @@ Yes, you can download if you have subscribed to their content by paying on onlyf
 
 ### Can OnlyFans Detect Video Downloads?
 No, as long as you keep downloaded content for personal use and avoid sharing it.
+
+### How to ensure privacy and safety when installing an extension from outside of chrome webstore ?
+Chrome browser has a feature to create and manage multiple browser profiles. 
+Instead of using your main profile, set up a new one solely for installing the extension. 
+This isolates your online activity and sensitive data from the extension.
