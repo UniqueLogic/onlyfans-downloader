@@ -16,7 +16,7 @@ Get media sent to your inbox from any OnlyFans model by providing the chat link.
 
 ## Requirements
 
-To use this tool for OnlyFans media downloads, install the Chrome extension or provide cookies and a proxy.
+To use this tool for OnlyFans media downloads, you need to install the chrome extension in offline mode.
 
 ## How to Download Using the Extension
 
@@ -33,11 +33,6 @@ To use this tool for OnlyFans media downloads, install the Chrome extension or p
 3. Find OnlyfansDownloader extension, click 'Details.'
 4. Enable 'Allow in incognito.'
 
-## How to Download Using Cookies and Proxy URL (No Longer Supported)
-
-1. Select 'Proxy and cookies' as the download method.
-2. Input the proxy URL for extracting download URLs from OnlyFans. Use the same proxy as your browser to view and download content.
-3. Follow steps for cookies (no longer needed).
 
 ## FAQ
 
@@ -51,7 +46,7 @@ No, it's not official or endorsed by OnlyFans. Developed by third-party individu
 Users input the URL of the content they want to download. The app accesses OnlyFans content through various methods, allowing users to save it.
 
 ### Can I Download from Paid OnlyFans Accounts?
-Yes, you can download if subscribed. Share cookies to authenticate the downloader app for your OnlyFans account.
+Yes, you can download if you have subscribed to their content by paying on onlyfans.
 
 ### Can OnlyFans Detect Video Downloads?
 No, as long as you keep downloaded content for personal use and avoid sharing it.
