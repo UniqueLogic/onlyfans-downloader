@@ -12,8 +12,6 @@ Retrieve media from any subscribed OnlyFans profile by providing the profile lin
 ### Download media from OnlyFans Messages or Chat
 Get media sent to your inbox from any OnlyFans model by providing the chat link.
 
-![Anyloader OnlyFans Downloader](https://ik.imagekit.io/webscraper/Screenshot%202024-01-08%20at%202.14.00%20AM.png?updatedAt=1704660267904)
-
 ## Requirements
 
 To use this tool for OnlyFans media downloads, you need to install the chrome extension in offline mode (The extension is waiting to get approved in chrome webstore)
