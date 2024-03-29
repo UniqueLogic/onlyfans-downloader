@@ -1,6 +1,6 @@
 # Free Onlyfans Media Downloader
 
-Use the [Anyloader](https://anyloader.com/) to effortlessly save photos and videos from your [OnlyFans](https://onlyfans.com) account. This tool allows hassle-free bulk downloads of media from OnlyFans posts, profiles, and chats with just one click.
+Use [Anyloader](https://anyloader.com/) to effortlessly save photos and videos from your [OnlyFans](https://onlyfans.com) account. This tool allows hassle-free bulk downloads of media from OnlyFans posts, profiles, and chats with just one click.
 
 ## Features
 ### Save media from OnlyFans Posts
