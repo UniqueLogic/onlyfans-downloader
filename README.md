@@ -1,6 +1,6 @@
 # Free Onlyfans Media Downloader
 
-Use the [OnlyFans Downloader](https://onlyfansdownloader.co/) to effortlessly save photos and videos from your [OnlyFans](https://onlyfans.com) account. This tool allows hassle-free bulk downloads of media from OnlyFans posts, profiles, and chats with just one click.
+Use the [Anyloader](https://anyloader.com/) to effortlessly save photos and videos from your [OnlyFans](https://onlyfans.com) account. This tool allows hassle-free bulk downloads of media from OnlyFans posts, profiles, and chats with just one click.
 
 ## Features
 ### Save media from OnlyFans Posts
@@ -12,7 +12,7 @@ Retrieve media from any subscribed OnlyFans profile by providing the profile lin
 ### Download media from OnlyFans Messages or Chat
 Get media sent to your inbox from any OnlyFans model by providing the chat link.
 
-![OnlyFans Downloader](https://ik.imagekit.io/webscraper/Screenshot%202024-01-08%20at%202.14.00%20AM.png?updatedAt=1704660267904)
+![Anyloader OnlyFans Downloader](https://ik.imagekit.io/webscraper/Screenshot%202024-01-08%20at%202.14.00%20AM.png?updatedAt=1704660267904)
 
 ## Requirements
 
