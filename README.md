@@ -18,19 +18,19 @@ To use this tool for OnlyFans media downloads, you need to install the chrome ex
 
 ## How to download Onlyfans videos Using the Extension
 
-1. Get the extension by visiting [onlyfansdownloader.co](https://onlyfansdownloader.co)
+1. Get the extension by visiting [anyloader.com](https://anyloader.com)
 2. Click 'Download extension' button
 3. Extract the downloaded extension zip file.
 4. Go to Chrome menu → Extensions → Manage extensions.
 6. Turn on 'Developer mode' in the top right corner.
 7. Drag and drop the extracted extension folder onto the page or Click 'Load unpacked extension' and choose the folder to install.
-8. Confirm the extension on the extensions page, then go to onlyfansdownloader.co page.
+8. Confirm the extension on the extensions page, then go to Anyloader
 
 ## How to Use the Chrome Extension in Incognito Mode
 
 1. Click Chrome menu (three dots) in the top right.
 2. Go to `More tools › Extensions`.
-3. Find OnlyfansDownloader extension, click 'Details.'
+3. Find Anyloader extension, click 'Details.'
 4. Enable 'Allow in incognito.'
 
 ## FAQ
