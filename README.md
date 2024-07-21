@@ -2,6 +2,8 @@
 
 Use [Anyloader](https://anyloader.com/) to effortlessly save photos and videos from your [OnlyFans](https://onlyfans.com) account. This tool allows hassle-free bulk downloads of media from OnlyFans posts, profiles, and chats with just one click.
 
+![Onlyfans downloader](https://github.com/user-attachments/assets/5d12fb4d-7925-4658-9daa-62f48b6fd106)
+
 ## Features
 ### Save media from OnlyFans Posts
 Simply save content from any OnlyFans post by entering the post link. Click the three dots button on the top right of any post, select 'Copy link to post,' and input the link.
