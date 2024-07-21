@@ -1,6 +1,6 @@
 # Free Onlyfans Media Downloader
 
-Use [Anyloader](https://anyloader.com/) to effortlessly save photos and videos from your [OnlyFans](https://onlyfans.com) account. This tool allows hassle-free bulk downloads of media from OnlyFans posts, profiles, and chats with just one click.
+Use [Anyloader](https://anyloader.com/) to download photos and videos from your [OnlyFans](https://onlyfans.com) account. This chrome extension allows bulk downloading of media from OnlyFans posts, profiles, and chats with just one click.
 
 ![Onlyfans downloader](https://github.com/user-attachments/assets/5d12fb4d-7925-4658-9daa-62f48b6fd106)
 
@@ -37,10 +37,10 @@ To use this tool for OnlyFans media downloads, you need to install the chrome ex
 
 ## FAQ
 
-### What is OnlyFans Media Downloader?
+### What is anyloader onlyFans downloader?
 It's a website letting users download content from OnlyFans, enabling offline viewing of creator photos and videos.
 
-### Is the Media Downloader App Official?
+### Is the Anyloader app official?
 No, it's not official or endorsed by OnlyFans. Developed by third-party individuals, it has no affiliation with OnlyFans.
 
 ### How Does the App Work?
